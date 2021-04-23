@@ -1,5 +1,5 @@
 body {
-
-background: linear-gradient( blue, white, red )
-
+  background: linear-gradient(blue, white, red);
+  margin: auto;
+  text-align: center;
 }
